@@ -1,11 +1,11 @@
 # Site
-name: 'TrumpTribune'
-description: 'Conservative Blog & Conservative News Source for Right of Center Activists'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
-disqus: 'TrumpTribune'
-email: 'patric.algo@gmail.com'
+baseurl: '/mundana-theme-jekyll'
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,29 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Andrew Malcolm:
-      name:           Andrew Malcolm
-      site:           https://blog.trumptribune.com/
-      avatar:         /assets/images/avatar1.png
-      bio:            Andrew is a veteran national and foreign correspondent who has covered news and politics since 1968. He spent almost a decade as Communications Director for the governor of Montana, then as Deputy Communications Manager of the first George W. Bush presidential campaign and Laura Bush's press secretary. He's the father of three boys and author of 10 nonfiction books, two of which became movies. Among other posts at RedState, he writes two Malcolm on the Right weekly features -- national politics columns and audio commentaries on whatever. A California escapee, Malcolm is the longtime Tuesday co-host of The Ed Morrissey Show at sister site HotAir.com and now resides in the mountains of Tennessee with his editor wife and their stubborn Border Collie.
-      email:          contact@trumptribune.com
-      twitter:        https://twitter.com/AHMalcolm
+    sal:
+      name:           Sal
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
 
-    Bob Hoge:
-      name:           Bob Hoge
-      site:           https://blog.trumptribune.com/
-      avatar:         /assets/images/avatar2.png
-      bio:            Bob Hoge is a RedState contributor, proud father and small-business owner.  He is shown sporting his Covid beard, which his wife has since forced him to shave. 
-      email:          contact@trumptribune.com
-      twitter:        https://twitter.com/Bob_Hoge_CA
-      
-  Alex Parker:
-      name:           Alex Parker
-      site:           https://blog.trumptribune.com/
-      avatar:         /assets/images/avatar3.jpeg
-      bio:            N/A
-      email:          contact@trumptribune.com
-      twitter:        https://twitter.com/# 
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -51,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Alex Parker
-      avatar: /assets/images/avatar3.jpg
+      author: sal
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
@@ -65,7 +57,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 20
+paginate: 10
 
 
 
