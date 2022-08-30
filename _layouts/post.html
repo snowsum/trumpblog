@@ -126,7 +126,7 @@ layout: default
 			<h4 class="font-weight-bold spanborder"><span>Trending</span></h4>
         
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        {%- assign second_post = site.posts[0] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -135,7 +135,7 @@ layout: default
                 </a>
                 </div>
                 {% endif %}                
-                <div>
+                <div class="col-md-8">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
@@ -153,7 +153,7 @@ layout: default
             </div>
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        {%- assign third_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -162,7 +162,7 @@ layout: default
                 </a>
                 </div>
                 {% endif %}                
-                <div>
+                <div class="col-md-8">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
@@ -180,7 +180,7 @@ layout: default
             </div>
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
+        {%- assign fourth_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
@@ -189,7 +189,7 @@ layout: default
                 </a>
                 </div>
                 {% endif %}                
-                <div>
+                <div class="col-md-8">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
