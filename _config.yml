@@ -34,6 +34,14 @@ authors:
       bio:            Bob Hoge is a RedState contributor, proud father and small-business owner.  He is shown sporting his Covid beard, which his wife has since forced him to shave. 
       email:          contact@trumptribune.com
       twitter:        https://twitter.com/Bob_Hoge_CA
+      
+  Alex Parker:
+      name:           Alex Parker
+      site:           https://blog.trumptribune.com/
+      avatar:         /assets/images/avatar3.jpg
+      bio:            N/A
+      email:          contact@trumptribune.com
+      twitter:        #   
  
 # Defaults
 defaults:
@@ -43,8 +51,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Andrew Malcolm
-      avatar: /assets/images/avatar1.jpg
+      author: Alex Parker
+      avatar: /assets/images/avatar3.jpg
       
   # all pages
   - scope:
