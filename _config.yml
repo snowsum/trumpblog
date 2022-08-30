@@ -27,21 +27,21 @@ authors:
       email:          contact@trumptribune.com
       twitter:        https://twitter.com/AHMalcolm
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    Bob Hoge:
+      name:           Bob Hoge
+      site:           https://blog.trumptribune.com/
+      avatar:         /assets/images/avatar2.png
+      bio:            Bob Hoge is a RedState contributor, proud father and small-business owner.  He is shown sporting his Covid beard, which his wife has since forced him to shave.
+      email:          contact@trumptribune.com
+      twitter:        https://twitter.com/Bob_Hoge_CA
     
-    tom:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    Alex Parker:
+      name:           Alex Parker
+      site:           https://blog.trumptribune.com/
+      avatar:         /assets/images/avatar3.jpeg
+      bio:            
+      email:          contact@trumptribune.com
+      twitter:        https://twitter.com/#
  
 # Defaults
 defaults:
@@ -51,8 +51,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: lex Parker
+      avatar: /assets/images/avatar3.jpeg
       
   # all pages
   - scope:
