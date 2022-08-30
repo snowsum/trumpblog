@@ -51,6 +51,9 @@ a.text-dark:hover {
 	.display-3 {
 		font-size:2rem;
 	}
+	mr-2 {
+    width: 60%;
+}
 }
 .row.gap-y>.col,.row.gap-y>[class*="col-"] {
 	padding-top:15px;
