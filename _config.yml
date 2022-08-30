@@ -38,7 +38,7 @@ authors:
     Alex Parker:
       name:           Alex Parker
       site:           https://blog.trumptribune.com/
-      avatar:         /assets/images/avatar3.jpeg
+      avatar:         /assets/images/avatar3.jpg
       bio:            
       email:          contact@trumptribune.com
       twitter:        https://twitter.com/#
@@ -52,7 +52,7 @@ defaults:
     values:
       layout: post
       author: lex Parker
-      avatar: /assets/images/avatar3.jpeg
+      avatar: /assets/images/avatar3.jpg
       
   # all pages
   - scope:
