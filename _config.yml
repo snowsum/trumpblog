@@ -19,13 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    Andrew Malcolm:
+      name:           Andrew Malcolm
+      site:           https://blog.trumptribune.com/
+      avatar:         /assets/images/avatar1.png
+      bio:            Andrew is a veteran national and foreign correspondent who has covered news and politics since 1968. He spent almost a decade as Communications Director for the governor of Montana, then as Deputy Communications Manager of the first George W. Bush presidential campaign and Laura Bush's press secretary. He's the father of three boys and author of 10 nonfiction books, two of which became movies. Among other posts at RedState, he writes two Malcolm on the Right weekly features -- national politics columns and audio commentaries on whatever. A California escapee, Malcolm is the longtime Tuesday co-host of The Ed Morrissey Show at sister site HotAir.com and now resides in the mountains of Tennessee with his editor wife and their stubborn Border Collie.
+      email:          contact@trumptribune.com
+      twitter:        https://twitter.com/AHMalcolm
 
     jane:
       name:           Jane
