@@ -3,7 +3,7 @@ layout: post
 title:  "Winners And Losers From The Ukraine War"
 categories: [Commentary]
 image: https://www.gopusa.com/wp-content/uploads/2022/03/mass_grave_ukraine.jpg
-tags: [recommend,trend,stick]
+tags: [recommend,trend]
 ---
 “There never was a good war or a bad peace,” wrote Ben Franklin at the end of the American Revolution.
 
