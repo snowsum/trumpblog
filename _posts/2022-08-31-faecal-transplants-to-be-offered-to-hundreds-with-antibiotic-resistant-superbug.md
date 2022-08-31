@@ -22,20 +22,9 @@ The bug can usually be treated with a different type of antibiotic, but it is so
 
 Nice said clinical trials have shown FMT treatment is significantly better than antibiotics alone at resolving a stubborn C.diff infection, and treatment using this method could save the NHS thousands of pounds.
 
-
-    
-    Medical students forced to cut back on food, clothes and heating as cost of living crisis bites
-    
-
-### Related Topics:
-
--   [NHS](https://news.sky.com/topic/nhs-5893)
-
 Patients may need to take fewer antibiotics and have reported a better quality of life after treatment, it added.
 
 **'Innovative'**
-
-Advertisement
 
 The FMT section can be swallowed within a pill, or it can be delivered through a tube inserted directly into the stomach through the nose, or alternatively be deposited directly into the colon, also through a tube.
 
@@ -59,5 +48,5 @@ It said a strict donor screening programme should be in place and that treatment
 
 All donors will be been screened in advance to ensure the stool provided is healthy and tested for a wide array of viral, bacterial and parasitic infections, which also includes screening for  **[COVID-19](https://news.sky.com/topic/covid-19-8518)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjM5MDY1OV19
+eyJoaXN0b3J5IjpbLTcxMzI5NDQxOF19
 -->
