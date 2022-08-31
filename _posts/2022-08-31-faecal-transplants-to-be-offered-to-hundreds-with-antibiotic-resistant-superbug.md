@@ -2,7 +2,7 @@
 layout: post
 title:  "Faecal transplants to be offered to hundreds with antibiotic-resistant superbug: Official"
 categories: [ World， News ]
-image: https://e3.365dm.com/22/08/768x432/skynews-health-poo-transplant_5881514.jpg?20220830192932
+image: https://e3.365dm.com/22/08/1600x900/skynews-health-poo-transplant_5881514.jpg?20220830192932
 ---
 The section of faecal transplant from a healthy donor will be swallowed within a pill, or delivered through a tube inserted directly into the stomach, via the nose, or colon - and could save the NHS thousands of pounds.
 
@@ -48,5 +48,5 @@ It said a strict donor screening programme should be in place and that treatment
 
 All donors will be been screened in advance to ensure the stool provided is healthy and tested for a wide array of viral, bacterial and parasitic infections, which also includes screening for  **[COVID-19](https://news.sky.com/topic/covid-19-8518)**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NDA0OTg4XX0=
+eyJoaXN0b3J5IjpbNTUyODIxODU0XX0=
 -->
