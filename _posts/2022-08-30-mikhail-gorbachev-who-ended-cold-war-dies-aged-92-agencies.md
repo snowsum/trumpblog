@@ -23,7 +23,8 @@ U.S. President Joe Biden said he had believed in "glasnost and perestroika – o
 
 British Prime Minister Boris Johnson, citing Putin's invasion of Ukraine, said Gorbachev's "tireless commitment to opening up Soviet society remains an example to us all".
 
-WESTERN PARTNERSHIPS
+## WESTERN PARTNERSHIPS
+
 After decades of Cold War tension and confrontation, Gorbachev brought the Soviet Union closer to the West than at any point since World War Two.
 
 "He gave freedom to hundreds of millions of people in Russia and around it, and also half of Europe," said former Russian liberal opposition leader Grigory Yavlinsky. "Few leaders in history have had such a decisive influence on their time."
@@ -38,16 +39,17 @@ He will be buried in Moscow's Novodevichy Cemetery next to his wife Raisa, who d
 
 When pro-democracy protests rocked Soviet bloc nations in communist Eastern Europe in 1989, Gorbachev refrained from using force - unlike previous Kremlin leaders who had sent tanks to crush uprisings in Hungary in 1956 and Czechoslovakia in 1968.
 
-But the protests fuelled aspirations for autonomy in the 15 republics of the Soviet Union, which disintegrated over the next two years in chaotic fashion. read more
+But the protests fuelled aspirations for autonomy in the 15 republics of the Soviet Union, which disintegrated over the next two years in chaotic fashion.  [read more](https://www.reuters.com/world/gorbachev-era-collapse-soviet-union-2022-08-30/)
 
 Gorbachev - who was briefly deposed in an August 1991 coup by party hardliners - struggled vainly to prevent that collapse.
 
-TURBULENT REFORMS
+## TURBULENT REFORMS
+
 "The era of Gorbachev is the era of perestroika, the era of hope, the era of our entry into a missile-free world ... but there was one miscalculation: we did not know our country well," said Vladimir Shevchenko, who headed Gorbachev's protocol office when he was Soviet leader.
 
 "Our union fell apart, that was a tragedy and his tragedy," RIA news agency cited him as saying.
 
-On becoming general secretary of the Soviet Communist Party in 1985, aged just 54, he had set out to revitalise the system by introducing limited political and economic freedoms, but his reforms spun out of control. read more
+On becoming general secretary of the Soviet Communist Party in 1985, aged just 54, he had set out to revitalise the system by introducing limited political and economic freedoms, but his reforms spun out of control.  [read more](https://www.reuters.com/world/obituary-gorbachev-ended-cold-war-presided-over-soviet-collapse-2022-08-30/)
 
 "He was a good man - he was a decent man. I think his tragedy is in a sense that he was too decent for the country he was leading," said Gorbachev biographer William Taubman, a professor emeritus at Amherst College in Massachusetts.
 
