@@ -5,6 +5,8 @@ categories: [ World ]
 image: https://c.ndtvimg.com/2022-08/mdnu737g_artemis-moon-mission_625x300_29_August_22.jpg
 ---
 
+### Blastoff had been planned for Monday morning but was canceled because a test to get one of the rocket's four RS-25 engines to the proper temperature range for launch was not successful.
+
 NASA will make a second attempt to launch its powerful new Moon rocket on Saturday.
 
 **Washington:**
