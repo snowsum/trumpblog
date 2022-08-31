@@ -3,10 +3,42 @@
         <img src="{{site.baseurl}}/assets/images/ad.png">
 </div>
 
+<!-- Recommended Posts -->	
+<div class="row content pl-3 mt-5">
+				
+<h4 class="font-weight-bold spanborder"><span>Recommended Posts</span></h4>
+      {% for post in site.tags.promoted %}        
+        <div class="mb-3 d-flex align-items-center">                
+                {% if post.image %}
+                <div class="col-md-4 pl-0">
+                <a href="{{site.baseurl}}{{post.url}}">
+                 <img class="w-100" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div class="col-md-8  pl-0 pr-0">
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        {% for category in post.categories %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        {% endfor %}
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        {{ post.date | date: '%b %d, %Y' }}
+                    </small>
+                </div>
+            </div>
+        {% endfor %}
+</div>
+
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Trending</span></h4>  
     <ol class="list-featured mb-5">				
-        {% for post in site.tags.featured %}                
+        {% for post in site.tags.trend %}                
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
