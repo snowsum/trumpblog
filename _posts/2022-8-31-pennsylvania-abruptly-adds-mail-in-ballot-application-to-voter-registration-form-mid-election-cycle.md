@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "# Pennsylvania Abruptly Adds Mail-In Ballot Application To Voter Registration Form Mid-Election Cycle"
+title:  "Pennsylvania Abruptly Adds Mail-In Ballot Application To Voter Registration Form Mid-Election Cycle"
 categories: [ News, World]
 image: https://thefederalist.com/wp-content/uploads/2022/08/State_Capitol_building_in_Harrisburg_Pennsylvania-1200x675.jpeg
 tags: [trend]
@@ -31,5 +31,5 @@ Election officials will now have to process two different actions with one form,
 
 “We were flooded with duplicate applications, and irate voters who received a mail-in ballot for the 2020 election who wanted to vote in person and were forced to cast a provisional ballot,” Feaser continued. “We lost large numbers of poll workers because of the threats and anger directed at them by voters who became permanent mail-in voters in error. By rushing this form through, without putting in place appropriate safeguards, the Department is putting political interests ahead of the safety of Pennsylvania’s election workers.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTc5MTMxOF19
+eyJoaXN0b3J5IjpbLTIwODIwMDkyMV19
 -->
