@@ -107,8 +107,6 @@ As the Washington Times  [reported](https://www.washingtontimes.com/news/2022/ma
 Those poll results confirmed what many conservatives had long thought — that by censoring the laptop story and the Biden family’s pay-to-play scandal, Big Tech stole the election from Donald Trump.
 
 But Zuckerberg’s admission on Thursday that Big Tech throttled the story at the behest of the FBI reveals a deeper scandal: It was the FBI and not social media that stole the election from Donald Trump.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjIyODA2Ml19
+eyJoaXN0b3J5IjpbODE4NTc5OTBdfQ==
 -->
