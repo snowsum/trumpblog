@@ -2,7 +2,7 @@
 layout: post
 title:  "U.S. officials order Nvidia to halt sales of top AI chips to China"
 categories: [ News ]
-image: https://www.reuters.com/resizer/f6UJap85BnI4T7u9G-GfXcIFodw=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg
+image: assets/images/bg.jpg
 tags: [recommend,trend]
 ---
 Chip designer Nvidia Corp  [(NVDA.O)](https://www.reuters.com/companies/NVDA.O)  said on Wednesday that U.S. officials told it to stop exporting two top computing chips for artificial intelligence work to China, a move that could cripple Chinese firms' ability to carry out advanced work like image recognition and hamper Nvidia's business in China.
@@ -31,5 +31,5 @@ Stacy Rasgon, a financial analyst with Bernstein, said the disclosure signaled t
 
 The chip ban comes as Nvidia last week already forecast a sharp drop in revenue for the current quarter on the back of a weaker gaming industry. Nvidia said it expected third-quarter sales of $5.90 billion, down 17% from the same period last year.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2Mzk2NDQ3XX0=
+eyJoaXN0b3J5IjpbLTI3ODAzNzgzMCw0NjYzOTY0NDddfQ==
 -->
