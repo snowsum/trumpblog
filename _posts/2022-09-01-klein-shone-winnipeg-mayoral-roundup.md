@@ -15,6 +15,8 @@ It was the same bike he took to a 10:30 a.m. news conference near Granite Curlin
 
 "I feel so stupid," Shone said Wednesday afternoon. "I was inside for two minutes. I got distracted by a question."
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If anyone sees my orange Rossin riding around - I would really like it back from the person who just STOLE IT FROM ME...529 alert has been activated...(stolen in West End) <a href="https://t.co/OyCl7h4XRX">pic.twitter.com/OyCl7h4XRX</a></p>&mdash; Rick Shone for Mayor (@RickShone) <a href="https://twitter.com/RickShone/status/1565035796583030787?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Shone is the second mayoral candidate to address bike theft in two days. Shaun Loney made a similar bike-registration pledge on Tuesday, when he also promised to install more bike lockers in public places and change city zoning rules to make lockers mandatory in new developments.
 
 -   [Mayoral candidate Shaun Loney promises to reduce bike thefts in Winnipeg](https://www.cbc.ca/news/canada/manitoba/loney-mayor-bicycle-theft-1.6566955)
@@ -77,5 +79,5 @@ As of Wednesday, councillors Jeff Browaty (North Kildonan), Markus Chambers (St.
 
 The deadline to run for council is Sept. 20. The election takes place Oct. 26.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyNTc2MjRdfQ==
+eyJoaXN0b3J5IjpbNDA3OTE1MzQ3XX0=
 -->
