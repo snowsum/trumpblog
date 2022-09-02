@@ -10,13 +10,9 @@ MOSCOW, Sept 1 (Reuters) - Ravil Maganov, the chairman of Russia's second-larges
 
 The sources confirmed reports by several Russian media that the 67-year-old had plunged to his death, but the circumstances surrounding his fall were unclear.
 
-Advertisement · Scroll to continue
-
 Russian state news agency TASS reported the death as a suicide, citing a law enforcement source. It quoted the source as saying Maganov had been admitted to hospital after suffering a heart attack, and was also taking anti-depressants.
 
 Reuters was unable to confirm those details. Three sources told Reuters that, based on their close acquaintance with Maganov, they did not believe he would have killed himself.
-
-Advertisement · Scroll to continue
 
 Another source close to the company said there was a belief inside Lukoil management that he had committed suicide, but the source had not seen evidence or documents to support that.
 
@@ -30,8 +26,6 @@ Russian President Vladimir Putin stands next to First Executive Vice President o
 
 "Lukoil's many thousands of employees mourn deeply for this grievous loss and express their sincere condolences to Ravil Maganov's family," it said.
 
-Advertisement · Scroll to continue
-
 At least six other Russian businessmen, most with ties to the energy industry, have died suddenly in unclear circumstances in the past few months.  [read more](https://www.reuters.com/world/europe/russian-businessmen-who-have-died-unexplained-circumstances-2022-09-01/)
 
 The deaths were all in Russia apart from that of Sergei Protosenya, a former top manager of Russia's largest liquefied natural gas producer Novatek  [(NVTK.MM)](https://www.reuters.com/companies/NVTK.MM), who was found with the bodies of his wife and daughter at a villa in Spain. Catalan regional police, investigating the case, have said they believe he killed them and then took his own life.
@@ -44,5 +38,5 @@ Since 2014, Lukoil has been subject to sectoral sanctions imposed by the U.S. Tr
 
 Lukoil is trying to expand its business in Africa and has refineries in Europe, including in Italy. It has for years faced speculation about being an acquisition target for Rosneft, which had bought numerous oil-producing assets across Russia. Both Lukoil and Rosneft have denied those rumours.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA5MzkyMTBdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTYwNTU1OV19
 -->
