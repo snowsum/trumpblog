@@ -3,7 +3,7 @@ layout: post
 title:  "Top Russian oil official falls to death from hospital window - sources"
 author:  Andrew Malcolm
 categories: [ News, World ]
-image: https://www.reuters.com/resizer/ScQwgAwYG2pXaygajOBhkyrGt7E=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TO7ID56DOZJ7DEV7ATTKHAGGY4.jpg
+image: https://image.cnbcfm.com/api/v1/image/107112507-16620342492022-09-01t092218z_1992540571_rc298w9l5i1d_rtrmadp_0_russia-lukoil-manager-death.jpeg?v=1662066607&w=740&h=416&ffmt=webp
 tags: [recommend,trend]
 ---
 MOSCOW, Sept 1 (Reuters) - Ravil Maganov, the chairman of Russia's second-largest oil producer Lukoil  [(LKOH.MM)](https://www.reuters.com/companies/LKOH.MM), died on Thursday after falling from a hospital window in Moscow, two sources familiar with the situation said, becoming the latest in a series of businessmen to meet with sudden unexplained deaths.
@@ -38,5 +38,5 @@ Since 2014, Lukoil has been subject to sectoral sanctions imposed by the U.S. Tr
 
 Lukoil is trying to expand its business in Africa and has refineries in Europe, including in Italy. It has for years faced speculation about being an acquisition target for Rosneft, which had bought numerous oil-producing assets across Russia. Both Lukoil and Rosneft have denied those rumours.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTYwNTU1OV19
+eyJoaXN0b3J5IjpbLTE0NzE3MjQ2NjcsMTQ2NTYwNTU1OV19
 -->
