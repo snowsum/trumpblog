@@ -7,7 +7,7 @@ image: https://www.reuters.com/resizer/aKNgF1Dg_AWqlLWY3stK8NkVuh8=/960x0/filter
 tags: [recommend,trend，stick]
 ---
 Poland estimates its World War Two losses caused by Germany at 6.2 trillion zlotys ($1.32 trillion), the leader of the country's ruling nationalists said on Thursday, and he said Warsaw would officially demand reparations.
-![enter image description here](https://www.reuters.com/resizer/Mgqret9qfgkZ4psni1pELqHx_IQ=/960x0/filters:quality%2880%29/cloudfront-us-east-2.images.arcpublishing.com/reuters/TR22RGDOFJLRZJHMHUWCMOPHQU.jpg)
+![ Poland Germany WWII](https://s.yimg.com/ny/api/res/1.2/et7R.OLYtqX_UMzCBBo75Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/hYoxOiaRJl6sgl2dWuZYTA--~B/aD0zMDc5O3c9NDYxODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/043ee6c3c01207caf5c04e08b370d2fa)
 Poland's biggest trade partner and a fellow member of the European Union and NATO, Germany has previously said all financial claims linked to World War Two have been settled.
 
 Poland's new estimate tops the $850 billion estimate by a ruling party lawmaker from 2019. The ruling Law and Justice (PiS) party has repeated calls for compensation several times since it took power in 2015, but Poland hasn't officially demanded reparations.
@@ -28,5 +28,5 @@ Donald Tusk, leader of Poland's biggest opposition party Civic Platform, said on
 
 PiS is still leading in most opinion polls but its edge over Civic Platform has narrowed in recent months amid criticism of its handling of surging inflation and an economic slowdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzc4Njc5MSwyNTQyMjkyNjJdfQ==
+eyJoaXN0b3J5IjpbLTY3NTIyOTI3NCwyNTQyMjkyNjJdfQ==
 -->
