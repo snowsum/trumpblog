@@ -55,7 +55,9 @@ Some categories of visits to relatives are not listed at all in the new rules, i
 
 Meanwhile, the European Commission says it has expressed concern about restrictions on foreign students and academics at Palestinian universities to the "highest levels" of the Israeli authorities.
 
-The BBC is not responsible for the content of external sites.[View original tweet on Twitter](https://twitter.com/MartinKonecny/status/1564985519779549185)
+The BBC is not responsible for the content of external sites.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EU response to Israel&#39;s new restrictions undermining EU-Palestinian university exchanges under Erasmus+:<br><br>&quot;With Israel itself benefitting greatly from Erasmus+, the Commission considers that it should facilitate and not hinder access of students to Palestinian universities.&quot; <a href="https://t.co/jBnYE6PbmN">pic.twitter.com/jBnYE6PbmN</a></p>&mdash; Martin Konečný (@MartinKonecny) <a href="https://twitter.com/MartinKonecny/status/1564985519779549185?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Under its Erasmus+ programme, 366 European higher education students and staff went to the West Bank in 2020. At the same time, 1,671 Europeans were at Israeli institutions.
 
@@ -83,5 +85,5 @@ Another petitioner was Dr Benjamin Thomson, who heads a Canadian charity, Keys t
 
 In July, the High Court rejected the petition on the rules as "premature," indicating that Cogat had yet to reach a "final decision" on them. However, there have been no changes announced to the procedures officially published online or their scheduled introduction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTY1MzM1OV19
+eyJoaXN0b3J5IjpbMTE4ODE3OTI0N119
 -->
