@@ -10,19 +10,11 @@ MEXICO CITY, Sept 2 (Reuters) - Satellites recorded another large methane leak a
 
 Three satellites recorded images of methane plumes at the Ku-Maloob-Zaap oil field cluster in the Gulf of Mexico during six days between Aug 5 and Aug 29, said Itziar Irakulis-Loitxate, a scientist from the Polytechnic University of Valencia.
 
-Advertisement · Scroll to continue
-
-Report an ad
-
 During these days, some 44,064 tons of methane were released into the atmosphere from the Zaap oil field in another "ultraemission", Irakulis-Loitxate estimated. This is equivalent to 3.7 million tons of CO2.
 
 Reuters was unable to determine the cause of the leak but experts have expressed concern over ailing infrastructure.
 
 It comes after a peer-reviewed research paper in June, on which Irakulis-Loitxate was the lead author, uncovered a massive methane leak last December at the same oil field cluster, Mexico's largest by production volume.  [read more](https://www.reuters.com/business/environment/scientists-find-massive-methane-leak-pemex-gulf-mexico-oil-field-paper-2022-06-09/)
-
-Advertisement · Scroll to continue
-
-Report an ad
 
 The work is part of a wider study funded by the European Space Agency, in which scientists are working to detect and quantify human-made emissions from space.
 
@@ -64,5 +56,5 @@ The share of natural gas that comes to the surface as a byproduct increases as o
 
 Petroleum reservoir geologists said this poses operational challenges - and more natural gas is wasted as a result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NTgwNzAyXX0=
+eyJoaXN0b3J5IjpbLTM2Nzc1NjAzNF19
 -->
