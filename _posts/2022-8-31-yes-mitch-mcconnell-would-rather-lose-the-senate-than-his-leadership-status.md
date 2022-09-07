@@ -4,7 +4,7 @@ title:  "Yes, Mitch McConnell Would Rather Lose The Senate Than His Leadership S
 author: Bob Hoge
 categories: [Commentary]
 image: https://thefederalist.com/wp-content/uploads/2022/02/12988147624_dd3424d28a_k-e1644614714553-1200x675.jpg
-tags: [trend]
+
 ---
 ##### McConnell would rather have another two years of a Democrat-controlled Senate where he’s party leader than a Republican-controlled one where he’s not.
 A major Republican political action committee backed by Senate Minority Leader Mitch McConnell is pulling its funding from the crucial battleground state of Arizona, according to a  [new report](https://www.politico.com/news/2022/08/26/shifting-strategy-senate-gop-super-pac-cancels-ad-buys-in-arizona-alaska-00053965).
@@ -53,5 +53,5 @@ Whether Republican voters like to admit it, McConnell and the GOP establishment 
 
 At the end of the day, McConnell would rather have another two years of a Democrat-controlled Senate where he remains party leader than a Republican-controlled one where he’s not. This November, voters must wrestle back power not just from Democrats, but from swamp creatures like McConnell as well, lest our country continue to pay the price.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjE5NTU0NiwtMzYwMDEyMTE3XX0=
+eyJoaXN0b3J5IjpbLTIwODYxODc0NCwtMzYwMDEyMTE3XX0=
 -->
