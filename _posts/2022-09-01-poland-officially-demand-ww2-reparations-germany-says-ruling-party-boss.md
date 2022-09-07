@@ -4,7 +4,7 @@ title:  "Poland puts its WW2 losses at $1.3 trillion, demands German reparations
 author:  Andrew Malcolm
 categories: [ News, World ]
 image: https://s.yimg.com/ny/api/res/1.2/vOnyDFiii9Xf79pa2z3.yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/EMg5jGAdtQKgBqUR2qVzrg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/cb6eb0de3018df3339c5537cd12be42c
-tags: [recommend,trend,sticky]
+
 ---
 Poland estimates its World War Two losses caused by Germany at 6.2 trillion zlotys ($1.32 trillion), the leader of the country's ruling nationalists said on Thursday, and he said Warsaw would officially demand reparations.
 ![Poland Germany WWII](https://s.yimg.com/ny/api/res/1.2/et7R.OLYtqX_UMzCBBo75Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/hYoxOiaRJl6sgl2dWuZYTA--~B/aD0zMDc5O3c9NDYxODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/043ee6c3c01207caf5c04e08b370d2fa)
@@ -28,6 +28,6 @@ Donald Tusk, leader of Poland's biggest opposition party Civic Platform, said on
 
 PiS is still leading in most opinion polls but its edge over Civic Platform has narrowed in recent months amid criticism of its handling of surging inflation and an economic slowdown.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI3MTQwNDYsMTExNDUzMTk4MSwtNT
-QxNTQyOTk1LDI1NDIyOTI2Ml19
+eyJoaXN0b3J5IjpbLTQ2OTI1ODI2MywtMTU4MjcxNDA0NiwxMT
+E0NTMxOTgxLC01NDE1NDI5OTUsMjU0MjI5MjYyXX0=
 -->
