@@ -21,7 +21,7 @@ Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, 
 
 **_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
 
-[**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumpbucksbill.com/get-gold-pated-bills?aff_id=3990&subid=TRUTH)
+[**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
 ___
 Tsao also announced that he was renouncing his Singaporean citizenship in favor of regaining his Taiwanese identity in light of China's repeated military threats to Taiwan, per Taiwan News.
 
@@ -42,7 +42,7 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjcxOTQxNiwtMTExNDgwMTc4NCwtMT
-gzMDcyNjIyNiwtNjI0NDk1OTYxLC04NjU4NzIwNywyMTQ0ODY0
-MTE0LDEyNzg2NDgyNzBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTY2Mzc4NTIsLTExMTQ4MDE3ODQsLT
+E4MzA3MjYyMjYsLTYyNDQ5NTk2MSwtODY1ODcyMDcsMjE0NDg2
+NDExNCwxMjc4NjQ4MjcwXX0=
 -->
