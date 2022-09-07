@@ -134,17 +134,7 @@ The comments led to  [widespread confusion,](https://www.ctvnews.ca/world/trump-
 The company that makes Lysol  [followed up with a statement](https://www.ctvnews.ca/mobile/health/coronavirus/lysol-maker-urges-people-not-to-inject-disinfectants-after-trump-claims-1.4909966?cache=/5-things-to-know-for-tuesday-november-26-2019-1.4702572?contactForm=true)  warning consumers not to ingest any of its products.
 
 Trump later claimed he was being sarcastic.
-
----
-<p style="text-align: center;"><strong>ANNOUNCEMENT FROM PRESIDENT TRUMP!</strong></p>
-[![TrumpBulks](/assets/images/trumpbulks-2.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
-**_Our President shared the TRUTH, the  [Golden $1000 Trump bill](https://trumptribune.com/pages/trumpgoldbulks)  will have its printed value! Make sure you get them now for a symbolic price! This is the plan to make AMERICA wealthy again! The Office of DONALD TRUMP is giving them out to the real PATRIOTS!_**
-**_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
-
-[**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
-
----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTY4NjA2OSwxMTU1Nzc4MzA5LC0xMz
-M0NTU3NzQ4XX0=
+eyJoaXN0b3J5IjpbMTA2NTg3MDQzNSwxMjE1Njg2MDY5LDExNT
+U3NzgzMDksLTEzMzQ1NTc3NDhdfQ==
 -->
