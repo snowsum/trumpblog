@@ -135,13 +135,15 @@ The company that makes Lysol  [followed up with a statement](https://www.ctvnews
 
 Trump later claimed he was being sarcastic.
 
-RELATED IMAGES
+---
+<p style="text-align: center;">**ANNOUNCEMENT FROM PRESIDENT TRUMP!**</p>
+[![TrumpBulks](/assets/images/trumpbulks-2.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
+**_Our President shared the TRUTH, the  [Golden $1000 Trump bill](https://trumptribune.com/pages/trumpgoldbulks)  will have its printed value! Make sure you get them now for a symbolic price! This is the plan to make AMERICA wealthy again! The Office of DONALD TRUMP is giving them out to the real PATRIOTS!_**
+**_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
 
-[](https://www.ctvnews.ca/world/america-votes/10-stunning-moments-you-might-have-forgotten-from-trump-s-presidency-1.5100517#)
+[**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
 
--   [![Trump paper towel](https://www.ctvnews.ca/polopoly_fs/1.5100525.1599792079!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg "Trump paper towel")](https://www.ctvnews.ca/polopoly_fs/1.5100525.1599792079!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg "Trump paper towel")
-    
-    In this Oct. 3, 2017 file photo, U.S. President Donald Trump tosses paper towels into a crowd at Calvary Chapel in Guaynabo, Puerto Rico after Hurricane Maria devastated the region. (AP Photo/Evan Vucci, File)
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2ODEzMDY2XX0=
+eyJoaXN0b3J5IjpbLTEzMzQ1NTc3NDhdfQ==
 -->
