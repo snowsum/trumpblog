@@ -4,7 +4,7 @@ title:  "Ukraine claims early success in counteroffensive as Zelensky vows to 'c
 author: Bob Hoge
 categories: [ News]
 image: https://cdn.cnn.com/cnnnext/dam/assets/220830115108-ukrainian-president-volodymyr-zelenskiy-082922-exlarge-169.jpg
-tags: [trend]
+
 ---
 Volodymyr Zelensky issued a warning to Russian forces during his evening address on Monday, saying it was time for them to "run away, go home."
 
@@ -20,5 +20,5 @@ Yet one of his advisers cautioned that the operation will be a slow one, that wo
 
 "We suppress their attempts to supply their groups on the west bank [of the Dnipro]," he said. "We strike at reserves, including reserves that are on the east bank and are trying to cross."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkxNTYyMjcsMTEwMDQ4NjQ0NV19
+eyJoaXN0b3J5IjpbMTEyMzk1NTc1MSwxMTAwNDg2NDQ1XX0=
 -->
