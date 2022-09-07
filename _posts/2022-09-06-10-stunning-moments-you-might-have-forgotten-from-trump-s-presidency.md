@@ -4,7 +4,7 @@ title:  "10 stunning moments you might have forgotten from Trump's presidency"
 author: Bob Hoge
 categories: [ News , Commentary]
 image: assets/images/thedailybeast.png
-tags: [recommend]
+tags: [recommend, sticky]
 ---
 
 Love him or hate him, Donald Trump has been a U.S. president unlike any other.
@@ -145,6 +145,6 @@ Trump later claimed he was being sarcastic.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNDk2NjI2LDExNTU3NzgzMDksLTEzMz
-Q1NTc3NDhdfQ==
+eyJoaXN0b3J5IjpbMTIxNTY4NjA2OSwxMTU1Nzc4MzA5LC0xMz
+M0NTU3NzQ4XX0=
 -->
