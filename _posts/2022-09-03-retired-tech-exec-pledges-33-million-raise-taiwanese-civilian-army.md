@@ -13,7 +13,7 @@ A retired Taiwanese tech tycoon said on Thursday that he plans to use his own we
 
 Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, according to  [Taiwan News,](https://www.taiwannews.com.tw/en/news/4644378)  an English-language news outlet on the self-governing democratic island.
 
-<a target='_blank' rel='noreferrer noopener' href="https://dtccollab.com/pages/toe-splint-straightener-corrector">
+[![TrumpBulks](/assets/images/trumpbulks.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 [<div class="text-muted smoothscroll"><span>Advertisement</span></div><img src="{{site.baseurl}}/assets/images/trumpbulks.png">](https://dtccollab.com/pages/toe-splint-straightener-corrector)
 
 Tsao also announced that he was renouncing his Singaporean citizenship in favor of regaining his Taiwanese identity in light of China's repeated military threats to Taiwan, per Taiwan News.
@@ -35,6 +35,7 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3MjYyMjYsLTYyNDQ5NTk2MSwtOD
-Y1ODcyMDcsMjE0NDg2NDExNCwxMjc4NjQ4MjcwXX0=
+eyJoaXN0b3J5IjpbMTYxNDczMjgxOSwtMTgzMDcyNjIyNiwtNj
+I0NDk1OTYxLC04NjU4NzIwNywyMTQ0ODY0MTE0LDEyNzg2NDgy
+NzBdfQ==
 -->
