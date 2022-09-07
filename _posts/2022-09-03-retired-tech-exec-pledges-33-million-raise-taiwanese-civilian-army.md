@@ -18,6 +18,7 @@ Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, 
 [![TrumpBulks](/assets/images/trumpbulks.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
 **_Our President shared the TRUTH, the  [Golden $1000 Trump bill](https://trumptribune.com/pages/trumpgoldbulks)  will have its printed value! Make sure you get them now for a symbolic price! This is the plan to make AMERICA wealthy again! The Office of DONALD TRUMP is giving them out to the real PATRIOTS!_**
 **_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
+
 [**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
 
 ---
