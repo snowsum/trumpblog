@@ -3,7 +3,7 @@ layout: post
 title:  "A retired tech tycoon has pledged $33 million to raise an army of civilian marksmen and 'black bear warriors' to defend Taiwan from a Chinese invasion"
 categories: [ News ]
 image: https://i.insider.com/6311c4ab3fe7c40019e4f64b?width=2000&format=jpeg&auto=webp
-tags: [recommend,trend]
+tags: [recommend]
 ---
 ##### Retired tech tycoon Robert Tsao also announced that he had regained his Taiwanese identity after giving up his Singaporean citizenship.
  -   A retired Taiwanese tech mogul is pledging his millions to fund training for civilian troops.
@@ -42,8 +42,8 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODcwNjMwMywxMjgzNTAwNzk2LC0xNT
-k2NjM3ODUyLC0xMTE0ODAxNzg0LC0xODMwNzI2MjI2LC02MjQ0
-OTU5NjEsLTg2NTg3MjA3LDIxNDQ4NjQxMTQsMTI3ODY0ODI3MF
-19
+eyJoaXN0b3J5IjpbLTk5MDYxNDgzMCwtMjk4NzA2MzAzLDEyOD
+M1MDA3OTYsLTE1OTY2Mzc4NTIsLTExMTQ4MDE3ODQsLTE4MzA3
+MjYyMjYsLTYyNDQ5NTk2MSwtODY1ODcyMDcsMjE0NDg2NDExNC
+wxMjc4NjQ4MjcwXX0=
 -->
