@@ -3,7 +3,7 @@ layout: post
 title:  "Winners And Losers From The Ukraine War"
 categories: [Commentary]
 image: https://www.gopusa.com/wp-content/uploads/2022/03/mass_grave_ukraine.jpg
-tags: [recommend,trend]
+tags: [trend]
 ---
 “There never was a good war or a bad peace,” wrote Ben Franklin at the end of the American Revolution.
 
@@ -68,3 +68,6 @@ As Russians and Ukrainians kill one another in the Donbas, and hatred of Russian
 Perhaps we ought to invest as much time and energy trying to end this war as we do to defeat and humiliate Russia, which will not bring us peace.
 
 Patrick J. Buchanan is the author of “Nixon’s White House Wars: The Battles That Made and Broke a President and Divided America Forever.” To find out more about Patrick Buchanan and read features by other Creators writers and cartoonists, visit the Creators website at www.creators.com.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTAwNjg1NDhdfQ==
+-->
