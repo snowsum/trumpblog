@@ -4,7 +4,7 @@ title:  "COVID-19 vaccine opponents slapped with $214,000 in legal costs after f
 author:  Andrew Malcolm
 categories: [ News, World ]
 image: https://images.7news.com.au/publication/C-8065857/acb3f0be6d9cd2f8df1ef8506a2bea4a151b7246-16x9-x0y31w1600h900.jpg?imwidth=650&impolicy=sevennews_v2
-tags: [recommend,trend]
+tags: [recommend]
 ---
 ##### The group went to the Federal Court against COVID-19 measures, arguing they were unconstitutional.
 A group of people who went to  [court](https://7news.com.au/news/court-justice)  over  [COVID-19 measures including the vaccine](https://7news.com.au/news/coronavirus)  have been slapped with more than $200,000 in legal costs after failing to prove their claims.
@@ -59,5 +59,6 @@ Queensland truck driver and businessman Antoine Sandroussi said he “submitted 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTY1MjMxNCwtMzkxNDAyODc3XX0=
+eyJoaXN0b3J5IjpbMTMzMjc5NDQ4NywtODE1NjUyMzE0LC0zOT
+E0MDI4NzddfQ==
 -->
