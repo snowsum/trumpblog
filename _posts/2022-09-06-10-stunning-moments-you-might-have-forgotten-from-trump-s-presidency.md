@@ -3,7 +3,7 @@ layout: post
 title:  "10 stunning moments you might have forgotten from Trump's presidency"
 author: Bob Hoge
 categories: [ News , Commentary]
-image: /assets/images/thedailybeast.png
+image: assets/images/thedailybeast.png
 tags: [recommend]
 ---
 
@@ -145,5 +145,5 @@ Trump later claimed he was being sarcastic.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ1NTc3NDhdfQ==
+eyJoaXN0b3J5IjpbMTE1NTc3ODMwOSwtMTMzNDU1Nzc0OF19
 -->
