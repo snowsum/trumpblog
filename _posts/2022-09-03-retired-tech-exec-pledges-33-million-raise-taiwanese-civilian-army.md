@@ -13,7 +13,7 @@ A retired Taiwanese tech tycoon said on Thursday that he plans to use his own we
 
 Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, according to  [Taiwan News,](https://www.taiwannews.com.tw/en/news/4644378)  an English-language news outlet on the self-governing democratic island.
 
-
+trump bulks
 
 Tsao also announced that he was renouncing his Singaporean citizenship in favor of regaining his Taiwanese identity in light of China's repeated military threats to Taiwan, per Taiwan News.
 
@@ -34,5 +34,6 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDg2NDExNCwxMjc4NjQ4MjcwXX0=
+eyJoaXN0b3J5IjpbMzI5NTc5MzEzLDIxNDQ4NjQxMTQsMTI3OD
+Y0ODI3MF19
 -->
