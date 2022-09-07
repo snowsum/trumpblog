@@ -17,7 +17,7 @@ Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, 
 
 <div class="text-muted smoothscroll"><span>Advertisement</span></div>
 
-<img src="{{site.baseurl}}/assets/images/ads1.png">
+<img src="{{site.baseurl}}/assets/images/trumpbulks.png">
 
 </a>
 
@@ -40,6 +40,6 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MzEyNTExLDIxNDQ4NjQxMTQsMTI3OD
+eyJoaXN0b3J5IjpbLTg2NTg3MjA3LDIxNDQ4NjQxMTQsMTI3OD
 Y0ODI3MF19
 -->
