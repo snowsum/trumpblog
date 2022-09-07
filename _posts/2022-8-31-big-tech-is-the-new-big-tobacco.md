@@ -4,7 +4,7 @@ title:  "Big Tech Is The New Big Tobacco"
 author: Bob Hoge
 categories: [ News , Commentary]
 image: https://thefederalist.com/wp-content/uploads/2022/08/ipad-e1661897942747-1200x675.jpg
-tags: [recommend,trend]
+tags: [trend]
 ---
 ##### ‘For a time, Big Tobacco enjoyed immense profits and popularity. But eventually, Big Tobacco’s culpability in causing immense physical harm to Americans … became known.’
 hen it comes to the harmful effects social media is having on young people, Clare Morell and fellow researchers at the Institute for Family Studies and the Ethics and Public Policy Center see the writing on the wall — and it’s a devastating story.
@@ -55,5 +55,5 @@ Morell says the proposed state laws are “novel” and have been created by tak
 
 As parents wait for lawmakers to hold tech companies accountable for profiting off the vulnerable minds of children, it is critical that parents monitor their children’s online activities with special scrutiny and impress upon fellow parents the vital importance of remaining vigilant.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMzY2NDNdfQ==
+eyJoaXN0b3J5IjpbMTQ5Njc3MTU3MSw2NDEzNjY0M119
 -->
