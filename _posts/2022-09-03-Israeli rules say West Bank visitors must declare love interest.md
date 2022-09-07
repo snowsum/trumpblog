@@ -3,7 +3,7 @@ layout: post
 title:  "Israeli rules say West Bank visitors must declare love interest"
 categories: [ News, World ]
 image: https://ichef.bbci.co.uk/news/976/cpsprodpb/D8C8/production/_126569455_palestiniansvalentinegettyimages-96683865.jpg.webp
-tags: [recommend,trend]
+
 ---
 **Foreigners must tell the Israeli defence ministry if they fall in love with a Palestinian in the occupied West Bank, according to new rules.**
 
@@ -85,5 +85,5 @@ Another petitioner was Dr Benjamin Thomson, who heads a Canadian charity, Keys t
 
 In July, the High Court rejected the petition on the rules as "premature," indicating that Cogat had yet to reach a "final decision" on them. However, there have been no changes announced to the procedures officially published online or their scheduled introduction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODE3OTI0N119
+eyJoaXN0b3J5IjpbLTYxNTQ4NjMsMTE4ODE3OTI0N119
 -->
