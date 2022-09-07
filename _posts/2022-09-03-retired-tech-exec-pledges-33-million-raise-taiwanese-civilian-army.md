@@ -19,6 +19,7 @@ Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, 
 **_Our President shared the TRUTH, the  [Golden $1000 Trump bill](https://trumptribune.com/pages/trumpgoldbulks)  will have its printed value! Make sure you get them now for a symbolic price! This is the plan to make AMERICA wealthy again! The Office of DONALD TRUMP is giving them out to the real PATRIOTS!_**
 **_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
 [**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
+
 ---
 
 Tsao also announced that he was renouncing his Singaporean citizenship in favor of regaining his Taiwanese identity in light of China's repeated military threats to Taiwan, per Taiwan News.
@@ -40,7 +41,7 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDA5OTQ3MCwtMTU5NjYzNzg1MiwtMT
+eyJoaXN0b3J5IjpbMTI4MzUwMDc5NiwtMTU5NjYzNzg1MiwtMT
 ExNDgwMTc4NCwtMTgzMDcyNjIyNiwtNjI0NDk1OTYxLC04NjU4
 NzIwNywyMTQ0ODY0MTE0LDEyNzg2NDgyNzBdfQ==
 -->
