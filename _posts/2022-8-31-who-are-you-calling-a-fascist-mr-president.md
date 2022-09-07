@@ -4,7 +4,7 @@ title:  "Who Are You Calling A Fascist, Mr. President?"
 author: Bob Hoge
 categories: [ News , Commentary]
 image: https://thefederalist.com/wp-content/uploads/2022/08/image-2022-08-30T165901.035.png
-tags: [recommend,trend]
+tags: [recommend]
 ---
 ##### A rant.
 he other day Joe Biden  [accused](https://www.politico.com/news/2022/08/25/biden-trump-philosophy-semi-fascism-00053831)  voters of the opposition party of turning to “semi-fascism.” This is probably the first time in American history a president has openly attacked the opposing party’s constituents in this way. Grammatically speaking, the accusation could use a little work. What Biden probably meant to say was that 74 million Americans who voted for Donald Trump in 2020 are “quasi-fascist” or “increasingly fascistic.”
@@ -35,5 +35,5 @@ None of this is to say that the right is innocent. I often find myself debating 
 
 _*I am guilty of this, as well. In my book “Nanny State,” I called anyone who proposed limiting my air conditioning a “fascistic monster” and accused those proposing to limit soda sizes of being “Twinkie fascists” who wouldn’t stop until we were saying “Sieg Health” as we choked down cauliflower. But, of course, I’m not the president._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTI1NDkxNl19
+eyJoaXN0b3J5IjpbLTEyNDg5NDQyOTksMTg3NTI1NDkxNl19
 -->
