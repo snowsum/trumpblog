@@ -3,7 +3,7 @@ layout: post
 title:  "Climate Fear: Now It’s Zombie Ice"
 categories: [ World ]
 image: https://www.gopusa.com/wp-content/uploads/2022/08/zombie_ice.jpg
-tags: [trend]
+
 ---
 Zombie ice from the massive Greenland ice sheet will eventually raise global sea level by at least 10 inches (27 centimeters) on its own, according to a study released Monday.
 
@@ -38,5 +38,5 @@ Colgan said this is actually all a best case scenario. The year 2012 (and to a d
 “That’s how climate change works,” Colgan said. “Today’s outliers become tomorrow’s averages.”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDU5MDIxNiwtMjQ0MzY5ODRdfQ==
+eyJoaXN0b3J5IjpbMTk5OTUxNTc2LC0yNDQzNjk4NF19
 -->
