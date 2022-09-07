@@ -14,7 +14,7 @@ A retired Taiwanese tech tycoon said on Thursday that he plans to use his own we
 Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, according to  [Taiwan News,](https://www.taiwannews.com.tw/en/news/4644378)  an English-language news outlet on the self-governing democratic island.
 
 ---
-<p style="text-align: center;">**ANNOUNCEMENT FROM PRESIDENT TRUMP![‼️]**</p>
+<p style="text-align: center;">**ANNOUNCEMENT FROM PRESIDENT TRUMP!**</p>
 [![TrumpBulks](/assets/images/trumpbulks.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
 
 ___
@@ -37,7 +37,7 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQzNjgzNDEsLTExMTQ4MDE3ODQsLT
-E4MzA3MjYyMjYsLTYyNDQ5NTk2MSwtODY1ODcyMDcsMjE0NDg2
-NDExNCwxMjc4NjQ4MjcwXX0=
+eyJoaXN0b3J5IjpbNzc3NTc2MTI0LC0xMTE0ODAxNzg0LC0xOD
+MwNzI2MjI2LC02MjQ0OTU5NjEsLTg2NTg3MjA3LDIxNDQ4NjQx
+MTQsMTI3ODY0ODI3MF19
 -->
