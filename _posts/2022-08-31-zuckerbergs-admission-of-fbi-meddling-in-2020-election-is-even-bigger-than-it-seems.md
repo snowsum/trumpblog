@@ -3,7 +3,7 @@ layout: post
 title:  "Zuckerberg’s Admission Of FBI Meddling In 2020 Election Is Even Bigger Than It Seems"
 categories: [ Commentary ]
 image: https://thefederalist.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-30-at-6.02.32-AM-1200x675.png
-tags: [recommend,trend]
+tags: [recommend]
 ---
 ##### Zuckerberg’s admission reveals a deeper scandal: It was the FBI and not social media that stole the election from Donald Trump.
 Facebook founder Mark Zuckerberg’s admission last week that the FBI pushed the social media giant to censor Russian misinformation — and thus the Hunter Biden laptop story, as that’s how the agency and Democrats characterized it — shortly before the November 2020 election is but a breadcrumb of a bigger scandal: the widespread interference by the FBI in the 2020 presidential election with the potential that the bureau coordinated its efforts with the Biden campaign.
@@ -108,5 +108,5 @@ Those poll results confirmed what many conservatives had long thought — that b
 
 But Zuckerberg’s admission on Thursday that Big Tech throttled the story at the behest of the FBI reveals a deeper scandal: It was the FBI and not social media that stole the election from Donald Trump.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NTc5OTBdfQ==
+eyJoaXN0b3J5IjpbMjA4NjU5NTczMyw4MTg1Nzk5MF19
 -->
