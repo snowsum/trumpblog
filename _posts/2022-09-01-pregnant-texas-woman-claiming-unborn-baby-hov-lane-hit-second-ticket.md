@@ -3,7 +3,7 @@ layout: post
 title:  "A pregnant Texas woman who claimed her unborn baby counts as a passenger in the HOV lane is ticketed again"
 categories: [ News ]
 image: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-08/220831-Brandy-Bottone-al-0940-d491ae.jpg
-tags: [recommend,trend]
+
 ---
 ##### Brandy Bottone's first citation was dismissed before she was pulled over a second time for the same violation.
 A pregnant Texas woman who claimed she was entitled to drive in a high occupancy vehicle lane because of her unborn child  [received another ticket for the same offense](https://www.nbcdfw.com/news/local/pregnant-hov-lane-mom-gets-first-ticket-dismissed-then-gets-another/3060581/), authorities said Tuesday.
@@ -34,5 +34,6 @@ She  [told the Dallas Morning News](https://www.dallasnews.com/news/watchdog/202
 
 Bottone has since  [given birth to a girl](https://www.instagram.com/p/Cg9QA1fua_H/), the paper reported.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzM2OTg5NywxMTQ5Nzc2MzgwXX0=
+eyJoaXN0b3J5IjpbLTEwMjEyMzc1MzMsLTczMzM2OTg5NywxMT
+Q5Nzc2MzgwXX0=
 -->
