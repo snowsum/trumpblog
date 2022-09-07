@@ -3,7 +3,7 @@ layout: post
 title:  "Google Nukes Truth Social From App Store After New York Times Smears Platform As Haven For Extremism"
 categories: [ News, World]
 image: https://thefederalist.com/wp-content/uploads/2022/08/3766865469_f279df394b_k-e1661888744932-1197x675.jpg
-tags: [trend]
+
 ---
 Google barred former President Donald Trump’s social media website Truth Social from the Mountain View-based company’s app store Tuesday.
 
@@ -24,5 +24,5 @@ The effort to deplatform Truth Social closely follows the Parler playbook, where
 In January last year, the major corporate tech giants  [colluded](https://thefederalist.com/2021/01/10/big-tech-oligarchs-collude-to-ban-parler-from-internet-and-phones/)  to bring Parler offline, complaining their competitor refused to incorporate the same censorship practices as allies of the incumbent regime. Twitter and Facebook, meanwhile, each harbored the same content that companies including Apple, Google, and Amazon cited as justification for their removal of Parler from their services.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzMzNjM3M119
+eyJoaXN0b3J5IjpbNTAzNjY2OTMzLDE2MDMzMzYzNzNdfQ==
 -->
