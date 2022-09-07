@@ -3,7 +3,7 @@ layout: post
 title:  "Winnipeg mayoral candidate gets bike stolen 85 minutes after promising to reduce bike theft"
 categories: [ World，News ]
 image: https://i.cbc.ca/1.6568348.1661972490!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/rick-shone.jpg
-tags: [trend]
+
 ---
 A Winnipeg mayoral candidate had his bicycle stolen less than 90 minutes after announcing a cycling-infrastructure plan that included plans to reduce bike theft.
 
@@ -79,5 +79,5 @@ As of Wednesday, councillors Jeff Browaty (North Kildonan), Markus Chambers (St.
 
 The deadline to run for council is Sept. 20. The election takes place Oct. 26.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3OTE1MzQ3XX0=
+eyJoaXN0b3J5IjpbMTI1ODYxNTM4OSw0MDc5MTUzNDddfQ==
 -->
