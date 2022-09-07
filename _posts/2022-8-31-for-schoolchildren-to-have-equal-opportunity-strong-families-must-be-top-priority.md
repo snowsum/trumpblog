@@ -2,9 +2,9 @@
 layout: post
 title:  "For Schoolchildren To Have Equal Opportunity, Strong Families Must Be Top Priority"
 author: Bob Hoge
-categories: [ News , Commentary]
+categories: [ Commentary]
 image: https://thefederalist.com/wp-content/uploads/2022/08/kids-school-e1661697279971-1200x675.jpg
-tags: [recommend,trend]
+tags: [trend]
 ---
 ##### In the continued decay of American education, one key factor often gets dismissed, particularly among the left.
 As millions of parents pack lunches, kids jump into back seats of cars or ride in buses, and teachers prepare lesson plans for a new school year, a new [study](https://www.aei.org/articles/strong-families-better-student-performance-the-more-things-change-the-more-they-remain-the-same/?mkt_tok=NDc1LVBCUS05NzEAAAGGVnNopS60RWU1ioIaITyCTQ2gShzs5VbaKhhmTvdMpCr0V2Gcr0y-5nePm9sMWP6rll6dUXVSiEK59Lr-HL13bT0MK29wYD0y1S15qzvjysSN) by the Institute of Family Studies once again shows that perhaps the most important factor in obtaining a successful education is the family home.
@@ -49,5 +49,5 @@ Ultimately, restoring our nation’s educational system starts at home. It requi
 
 Upward mobility and equal opportunity for all will only occur through strong families and a quality education that prepares our nation’s children to become the productive citizens of tomorrow. That is the message of hope we must continue to advocate for in words, actions, and policy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzkwNDM3NF19
+eyJoaXN0b3J5IjpbNTUxNjkwNDUzLDE4MDc5MDQzNzRdfQ==
 -->
