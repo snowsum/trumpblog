@@ -14,7 +14,7 @@ A retired Taiwanese tech tycoon said on Thursday that he plans to use his own we
 Robert Tsao, 75, intends to use $33 million of his own cash to fund the effort, according to  [Taiwan News,](https://www.taiwannews.com.tw/en/news/4644378)  an English-language news outlet on the self-governing democratic island.
 
 ---
-<p style="text-align: center;">**ANNOUNCEMENT FROM PRESIDENT TRUMP!**</p>
+<p style="text-align: center;"><strong>ANNOUNCEMENT FROM PRESIDENT TRUMP!</strong></p>
 [![TrumpBulks](/assets/images/trumpbulks.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
 **_Our President shared the TRUTH, the  [Golden $1000 Trump bill](https://trumptribune.com/pages/trumpgoldbulks)  will have its printed value! Make sure you get them now for a symbolic price! This is the plan to make AMERICA wealthy again! The Office of DONALD TRUMP is giving them out to the real PATRIOTS!_**
 **_!!! THIS IS YOUR LAST DAY WITH CURRENT PRICES… !!!_**
@@ -42,7 +42,8 @@ China-Taiwan tensions have soared since  [US Speaker of the House Nancy Pelosi](
 On Wednesday, Taiwan vowed to  [counterattack without exception](https://www.businessinsider.com/taiwan-warns-counterattack-without-exception-china-military-water-airspace-2022-8)  should any of Beijing's forces crossed into the island's waters or airspace.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzUwMDc5NiwtMTU5NjYzNzg1MiwtMT
-ExNDgwMTc4NCwtMTgzMDcyNjIyNiwtNjI0NDk1OTYxLC04NjU4
-NzIwNywyMTQ0ODY0MTE0LDEyNzg2NDgyNzBdfQ==
+eyJoaXN0b3J5IjpbLTI5ODcwNjMwMywxMjgzNTAwNzk2LC0xNT
+k2NjM3ODUyLC0xMTE0ODAxNzg0LC0xODMwNzI2MjI2LC02MjQ0
+OTU5NjEsLTg2NTg3MjA3LDIxNDQ4NjQxMTQsMTI3ODY0ODI3MF
+19
 -->
