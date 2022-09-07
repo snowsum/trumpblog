@@ -3,7 +3,7 @@ layout: post
 title:  "Mary Peltola wins Alaska special election to become first Alaska Native in Congress"
 categories: [ News ]
 image: https://19thnews.org/wp-content/uploads/2022/08/peltola-1800x1200-c-default.jpg
-tags: [recommend,trend]
+
 ---
 ##### She beat a field that included former Gov. Sarah Palin. The two are among three candidates on the ballot again in November for a full two-year term.
 Mary Peltola faced an uphill battle heading into the special election for Alaska’s only U.S. House seat.
@@ -50,5 +50,5 @@ Her decision to resign may still bother some Alaskans today, Lovecraft said, whi
 
 “Palin’s people aren’t just the kind who’ll come out to vote rain or shine,” Moore wrote. “They’re irrepressible, give no credence to naysayers and let nothing get in the way of their firm belief that Palin is destined to win.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTk2MzY1NV19
+eyJoaXN0b3J5IjpbLTgzNDczNTgyNywxNjA1OTYzNjU1XX0=
 -->
