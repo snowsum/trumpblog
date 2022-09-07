@@ -3,7 +3,7 @@ layout: post
 title:  "NY Criminalizes Whipped Cream For Under 21"
 categories: [ News]
 image: https://www.gopusa.com/wp-content/uploads/2022/08/whipped_cream.jpg
-tags: [trend]
+tags: [recommend,trend]
 ---
 (WJW) – Some businesses in New York are are starting to enforce a state law that limits who can buy whipped cream canisters, according to reports from Fox News.
 
@@ -17,5 +17,5 @@ The law passed back in November.
 
 Now, according to reports from Fox News, retail stores in New York are beginning to roll out ID checks on these sales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgxMDUyNjRdfQ==
+eyJoaXN0b3J5IjpbLTk1MjI0MjMzNiwtMTE5ODEwNTI2NF19
 -->
