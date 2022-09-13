@@ -28,7 +28,7 @@ He swiftly followed up with a 3 a.m. missive, also on Twitter asking, “who can
 **![Donald Trump, Kim Jong Un](https://www.ctvnews.ca/polopoly_fs/1.4690257!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)**
 
 When Trump and his team managed to get North Korean leader Kim Jong Un to the bargaining table to discuss de-nuclearization, the accomplishment was met with disbelief from critics and lauded by his supporters.
-[/
+
 ---
 <p style="text-align: center;"><strong>ANNOUNCEMENT FROM PRESIDENT TRUMP!</strong></p>
 [![TrumpBulks](/assets/images/trumpbulks-2.png "Shiprock, New Mexico by Beau Rogers")](https://trumptribune.com/pages/trumpgoldbulks)
@@ -38,7 +38,7 @@ When Trump and his team managed to get North Korean leader Kim Jong Un to the ba
 [**_ORDER WHILE YOU STILL CAN, BECOME PART OF HISTORY WITH DONALD TRUMP!_**](https://trumptribune.com/pages/trumpgoldbulks)
 
 ---
-/]
+-->
 
 However, it was Trump’s repeated glowing endorsement of Kim that raised eyebrows. In one instance, while speaking at a 2018 rally in West Virginia, Trump told the crowd that after meeting Kim and being “tough” on him, that the two men “fell in love.”
 
@@ -146,6 +146,6 @@ The company that makes Lysol  [followed up with a statement](https://www.ctvnews
 
 Trump later claimed he was being sarcastic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0OTkyMjcsLTU5NzQwNjU3NSwxMj
-E1Njg2MDY5LDExNTU3NzgzMDksLTEzMzQ1NTc3NDhdfQ==
+eyJoaXN0b3J5IjpbLTY4OTg4NzQ1MSwtNTk3NDA2NTc1LDEyMT
+U2ODYwNjksMTE1NTc3ODMwOSwtMTMzNDU1Nzc0OF19
 -->
